@@ -12,11 +12,7 @@
  * License URI:      https://www.gnu.org/licenses/gpl-2.0.html
  * Requires PHP:     7.4
  * Requires Plugins: activitypub
- *
- * @package ActivityPub_Bluesky_Bridge
- * @license GPL-2.0-or-later
  */
-
 
 namespace Activitypub\Snippets;
 
