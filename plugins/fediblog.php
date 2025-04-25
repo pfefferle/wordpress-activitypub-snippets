@@ -10,7 +10,8 @@
  * Author URI:        https://notiz.blog/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       activitypub-snippets
+ * Text Domain:       activitypub-fediblog
+ * Requires Plugins:  activitypub
  */
 
 namespace Activitypub\Snippets;
