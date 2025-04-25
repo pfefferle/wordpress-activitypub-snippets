@@ -1,0 +1,23 @@
+{
+    "name": "pfefferle/wordpress-activitypub-snippets",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Matthias Pfefferle",
+            "email": "pfefferle@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpcompatibility/php-compatibility": "*",
+        "phpcompatibility/phpcompatibility-wp": "*",
+        "squizlabs/php_codesniffer": "3.*",
+        "wp-coding-standards/wpcs": "*",
+        "yoast/phpunit-polyfills": "^3.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
