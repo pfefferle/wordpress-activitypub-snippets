@@ -71,8 +71,8 @@ function send_follow_request( $user_id ) {
 /**
  * Check the inbox for a follow request and add the user to the Bluesky group.
  *
- * @param array $data The data.
- * @param int $user_id The user ID.
+ * @param array $data    The data.
+ * @param int   $user_id The user ID.
  */
 function check_inbox( $data, $user_id ) {
 	if ( ! isset( $data['actor'] ) ) {
